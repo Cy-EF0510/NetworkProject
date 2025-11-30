@@ -3,20 +3,19 @@ Project for networks
 
 # Plan
 Building: 3 floors
-offices per floors: 10 per floor
+offices per floors: 7 per floor
 Departments: Admin, Sales, Engineering
 Wireless Clients: max 5, supported
 Servers: centralized (Star topology)
 	1 server per floor (3 in total)
 	3 vlans
-
-# Hosting and Internet Users
+Hosting and Internet Users
 Firewalls and DMZ
 Internet Support: LAN/Ethernet
 Shared Res: PC 30, Phone 30, Printer 6, Server 3
 
 # Network Upgrade Plan
-This plan evaluates a hypothetical small business with 30 employees across one 10,000 sq ft single-story building (100x100 ft dimensions, open office layout with concrete walls), currently using a bare-minimum consumer-grade router and daisy-chained 100Mbps switches. The desired state supports scalable growth to 50 users, reliable 1Gbps wired/wireless access, and enhanced security via centralized servers and firewalls.​
+This plan evaluates a hypothetical small business with 21 employees across one 10,000 sq ft single-story building (100x100 ft dimensions, open office layout with concrete walls), currently using a bare-minimum consumer-grade router and daisy-chained 100Mbps switches. The desired state supports scalable growth to 50 users, reliable 1Gbps wired/wireless access, and enhanced security via centralized servers and firewalls.​
 
 # Physical Structures
 Status Quo: Single building, one floor, no structured cabling; devices connected via outdated Cat5 cables prone to failures.​
